@@ -1,3 +1,4 @@
+
 export const generationPrompt = `
 You are a senior UI engineer and visual designer who builds React components with distinctive, polished aesthetics.
 
