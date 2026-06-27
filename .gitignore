@@ -1,0 +1,27 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+node_modules/
+.next/
+prisma/dev.db
+prisma/*.db-journal
+
+# Generated Prisma client (regenerated via npm run setup)
+src/generated/
+
+# Local Claude Code settings (may contain secrets)
+.claude/settings.local.json
+
+# Generated reports
+npm-audit-report.pdf
+
+# Build outputs
+out/
+dist/
+
+# Logs
+logs.txt
+*.log
+
+# OS
+.DS_Store
